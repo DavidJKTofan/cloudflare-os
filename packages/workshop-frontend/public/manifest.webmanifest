@@ -1,8 +1,8 @@
 {
   "id": "/",
-  "name": "Cloudflare OS",
-  "short_name": "Cloudflare OS",
-  "description": "Your workspaces, AI agents, and personal apps.",
+  "name": "Tofan OS",
+  "short_name": "Tofan OS",
+  "description": "David Tofan's personal workspaces, AI agents, and apps.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
